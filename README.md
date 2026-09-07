@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫💫 Hi 👋, I'm Mitadru Mridha
+Aspiring MLOps Engineer | Mechanical Engineering @ IIT Bhubaneswar | Python, ML
+About Me:
 🚀 **AI/ML & MLOps Enthusiast**<br>🤖 Building with **Machine Learning & Artificial Intelligence**<br>⚙️ Exploring **MLOps • ML Infrastructure • Cloud • Deployment**<br>🐍 Strong in **Python • SQL • Git • Machine Learning**<br>🐳 Learning **Docker • CI/CD • Cloud Technologies**<br>🧠 Exploring **Deep Learning • Reinforcement Learning • AI Systems**<br>💻 **Builder mindset:** Learn → Build → Deploy → Improve<br>🎓 **Mechanical Engineering @ IIT Bhubaneswar**<br>🔥 Passionate about turning **AI ideas into real-world systems**<br>🌐 Open to connecting with **AI/ML • MLOps • Software Engineering • Game AI**<br>📈 **Always learning. Always building. Always improving.**<br>
 
 
