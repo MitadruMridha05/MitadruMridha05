@@ -100,8 +100,8 @@ flowchart LR
 
 <div align="center">
 
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=MitadruMridha05&repo=REPO_NAME_1&title_color=DC143C&text_color=F2E9DC&icon_color=D4AF37&bg_color=0A0A0A&border_color=DC143C&border_radius=12)](https://github.com/MitadruMridha05/REPO_NAME_1)
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=MitadruMridha05&repo=REPO_NAME_2&title_color=DC143C&text_color=F2E9DC&icon_color=D4AF37&bg_color=0A0A0A&border_color=DC143C&border_radius=12)](https://github.com/MitadruMridha05/REPO_NAME_2)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=MitadruMridha05&repo=Youtube_Sentiment_Analysis&title_color=DC143C&text_color=F2E9DC&icon_color=D4AF37&bg_color=0A0A0A&border_color=DC143C&border_radius=12)](https://github.com/MitadruMridha05/Youtube_Sentiment_Analysis)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=MitadruMridha05&repo=House_Price_predictor&title_color=DC143C&text_color=F2E9DC&icon_color=D4AF37&bg_color=0A0A0A&border_color=DC143C&border_radius=12)](https://github.com/MitadruMridha05/House_Price_predictor)
 
 </div>
 
@@ -120,7 +120,7 @@ flowchart LR
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MitadruMridha05&bg_color=0A0A0A&color=DC143C&line=DC143C&point=F2E9DC&area=true&area_color=B80C09&title_color=D4AF37&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?#username=MitadruMridha05&bg_color=0A0A0A&color=DC143C&line=DC143C&point=F2E9DC&area=true&area_color=B80C09&title_color=D4AF37&hide_border=true&custom_title=Contribution%20A#activity%20Graph" alt="Activity graph" width="95%"/>
 
 </div>
 
