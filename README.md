@@ -23,29 +23,6 @@
 
 <div align="center">⚔️ ━━━━━━━━━ 🥷 ━━━━━━━━━ ⚔️</div>
 
-## 📜 巻物 · The Scroll (About Me)
-
-```python
-class MitadruMridha:
-    def __init__(self):
-        self.clan       = "B.Tech, Mechanical Engineering @ IIT Bhubaneswar"
-        self.rank       = "Aspiring MLOps / Machine Learning Engineer"
-        self.weapons    = ["Python", "SQL", "Git", "Machine Learning"]
-        self.training   = ["Docker", "Kubernetes", "CI/CD", "AWS", "Azure"]
-        self.focus      = ["ML Infrastructure", "Model Deployment", "Monitoring"]
-        self.code       = "学ぶ → 作る → 展開 → 改善   # Learn → Build → Deploy → Improve"
-        self.open_to    = ["ML Engineering", "MLOps", "Software Engineering"]
-
-    def mission(self):
-        return "Turn AI ideas into reliable, real-world systems."
-```
-
-> 🗡️ **継続は力なり** (*Keizoku wa chikara nari*): persistence is power. A samurai sharpens the blade daily, and I do the same with code, models and pipelines.
->
-> 🥷 A ninja works unseen until the mission succeeds. Good MLOps is like that: when pipelines, deployments and monitoring work, nobody notices.
-
-<div align="center">⚔️ ━━━━━━━━━ 🥷 ━━━━━━━━━ ⚔️</div>
-
 ## ⚔️ 武器 · Arsenal (Tech Stack)
 
 <div align="center">
