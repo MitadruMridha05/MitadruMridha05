@@ -151,6 +151,16 @@ These are the repositories that best show how I am practicing the full ML engine
 
 <div align="center">⚔️ ━━━━━━━━━━━━━━━━━━━━━ 🥷 ━━━━━━━━━━━━━━━━━━━━━ ⚔️</div>
 
+### ✍️ Random Dev Quote
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<div align="center">⚔️ ━━━━━━━━━━━━━━━━━━━━━ 🥷 ━━━━━━━━━━━━━━━━━━━━━ ⚔️</div>
+
+
 ## 🦅 連絡 · Send a messenger hawk
 
 I am open to ML engineering, MLOps, software engineering internships, collaborative projects, and thoughtful conversations about building useful AI systems.
