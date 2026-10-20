@@ -23,7 +23,7 @@
 
   <rect width="1400" height="420" fill="#05070c"/>
   <g clip-path="url(#frame)">
-    <image href="warrior-banner.png" x="0" y="0" width="1400" height="420" preserveAspectRatio="xMidYMid slice" opacity=".94"/>
+    <image href="warrior-banner.svg" x="0" y="0" width="1400" height="420" preserveAspectRatio="xMidYMid slice" opacity=".94"/>
     <rect width="1400" height="420" fill="url(#shade)"/>
     <rect width="1400" height="420" fill="url(#bottomShade)"/>
     <rect width="1400" height="420" fill="url(#microgrid)"/>
