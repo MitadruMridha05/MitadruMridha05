@@ -28,22 +28,6 @@
     <g stroke="#bdeaff" stroke-opacity=".22" stroke-width="1"><path d="M160 30l-28 70M320 20l-24 62M520 72l-30 76M682 18l-20 60M912 28l-26 70M1100 12l-22 64M1430 40l-24 72"><animate attributeName="stroke-opacity" values=".08;.34;.08" dur="2.6s" repeatCount="indefinite"/></path><path d="M220 188l-24 60M456 164l-28 72M760 206l-26 66M1012 154l-26 68M1240 126l-26 70M1500 172l-25 68" stroke-dasharray="7 14"><animate attributeName="stroke-dashoffset" from="0" to="-42" dur="1.5s" repeatCount="indefinite"/></path></g>
 
 
-    <!-- concise profile intro -->
-    <g transform="translate(72 72)" font-family="ui-monospace,Consolas,monospace" style="filter:drop-shadow(0 2px 4px #000)">
-      <rect x="-20" y="-28" width="610" height="190" rx="10" fill="#02050a" fill-opacity=".68" stroke="#f2e9dc" stroke-opacity=".22"/>
-      <rect x="-20" y="-28" width="610" height="26" rx="10" fill="#071018" fill-opacity=".86"/>
-      <circle cx="0" cy="-15" r="4" fill="#dc143c"/><circle cx="16" cy="-15" r="4" fill="#d4af37"/><circle cx="32" cy="-15" r="4" fill="#62d5d2"/>
-      <text x="52" y="-11" fill="#aab2bf" font-size="11">mitadru@dojo: ~/profile</text>
-      <text x="8" y="34" fill="#62d5d2" font-size="13">&gt; whoami</text>
-      <text x="8" y="70" fill="#f2e9dc" font-family="Georgia,serif" font-size="29" font-weight="700">Mitadru Mridha</text>
-      <text x="10" y="96" fill="#ff4a69" font-size="14" letter-spacing="1">ASPIRING MACHINE LEARNING ENGINEER</text>
-      <text x="8" y="124" fill="#d8dce2" font-size="12">Building reliable systems from data to deployment.</text>
-      <text x="8" y="146" fill="#b9c0c9" font-size="11">Python · MLOps · MLflow · Docker · FastAPI</text>
-      <rect x="8" y="153" width="118" height="2" fill="#dc143c"><animate attributeName="width" values="34;178;118" dur="3.5s" repeatCount="indefinite"/></rect>
-      <text x="138" y="158" fill="#d4af37" font-size="10">learn → build → deploy → improve</text>
-      <animate attributeName="opacity" values=".72;1;.72" dur="6s" repeatCount="indefinite"/>
-    </g>
-
     <g fill="none" stroke="#dc143c" stroke-width="2" opacity=".75"><path d="M0 0L18 18M18 0L0 18"><animateMotion dur="9s" repeatCount="indefinite" path="M200 300 C620 210 1030 320 1500 120"/><animateTransform attributeName="transform" type="rotate" from="0 9 9" to="360 9 9" dur="1.2s" repeatCount="indefinite"/></path></g>
     <rect x="-280" y="0" width="220" height="396" fill="url(#redLine)" opacity=".17" transform="skewX(-16)"><animate attributeName="x" values="-350;1720;-350" dur="9s" repeatCount="indefinite"/></rect>
     <rect width="1584" height="396" fill="none" stroke="#f2e9dc" stroke-opacity=".2" stroke-width="2"/>
