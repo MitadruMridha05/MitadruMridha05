@@ -2,6 +2,24 @@
 
 <img src="assets/warrior-banner.svg" width="100%" alt="Mitadru Mridha — aspiring machine learning and MLOps engineer" />
 
+## ⚔️ 武器 · Engineering toolkit
+
+<div align="center">
+
+### Languages & data
+<img src="https://skillicons.dev/icons?i=py,cpp,mysql,pandas,numpy,matplotlib&theme=dark" alt="Python, C++, MySQL, pandas, NumPy and Matplotlib" />
+
+### Machine learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow and scikit-learn" />
+<img src="https://img.shields.io/badge/Keras-DC143C?style=for-the-badge&logo=keras&logoColor=white&labelColor=0A0A0A" alt="Keras" />
+<img src="https://img.shields.io/badge/MLflow-D4AF37?style=for-the-badge&logo=mlflow&logoColor=0A0A0A&labelColor=0A0A0A" alt="MLflow" />
+<img src="https://img.shields.io/badge/DVC-C0C0C8?style=for-the-badge&logo=dvc&logoColor=0A0A0A&labelColor=F2E9DC" alt="DVC" />
+
+### MLOps, deployment & cloud
+<img src="https://skillicons.dev/icons?i=docker,githubactions,fastapi,flask,aws,azure,linux,git,github&theme=dark" alt="Docker, GitHub Actions, FastAPI, Flask, AWS, Azure, Linux, Git and GitHub" />
+
+</div>
+
 <a href="https://mitadrumridha05.github.io/MitadruMridha05/">
   <img src="https://img.shields.io/badge/Enter_the_3D_Quote_Dojo-DC143C?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0A0A0A" alt="Open the 3D Quote Dojo" />
 </a>
@@ -94,24 +112,6 @@ These are the repositories that best show how I am practicing the full ML engine
 </details>
 
 <div align="center">⌘ ───────────────────── ◈ ───────────────────── ⌘</div>
-
-## ⚔️ 武器 · Engineering toolkit
-
-<div align="center">
-
-### Languages & data
-<img src="https://skillicons.dev/icons?i=py,cpp,mysql,pandas,numpy,matplotlib&theme=dark" alt="Python, C++, MySQL, pandas, NumPy and Matplotlib" />
-
-### Machine learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow and scikit-learn" />
-<img src="https://img.shields.io/badge/Keras-DC143C?style=for-the-badge&logo=keras&logoColor=white&labelColor=0A0A0A" alt="Keras" />
-<img src="https://img.shields.io/badge/MLflow-D4AF37?style=for-the-badge&logo=mlflow&logoColor=0A0A0A&labelColor=0A0A0A" alt="MLflow" />
-<img src="https://img.shields.io/badge/DVC-C0C0C8?style=for-the-badge&logo=dvc&logoColor=0A0A0A&labelColor=F2E9DC" alt="DVC" />
-
-### MLOps, deployment & cloud
-<img src="https://skillicons.dev/icons?i=docker,githubactions,fastapi,flask,aws,azure,linux,git,github&theme=dark" alt="Docker, GitHub Actions, FastAPI, Flask, AWS, Azure, Linux, Git and GitHub" />
-
-</div>
 
 ## 🥋 修行 · Current training
 
