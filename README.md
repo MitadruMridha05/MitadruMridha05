@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Mitadru Mridha — aspiring machine learning and MLOps engineer" />
 
-<a href="https://github.com/MitadruMridha05/MitadruMridha05/tree/main/quote-dojo">
+<a href="https://mitadrumridha05.github.io/MitadruMridha05/">
   <img src="https://img.shields.io/badge/Enter_the_3D_Quote_Dojo-DC143C?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0A0A0A" alt="Open the 3D Quote Dojo" />
 </a>
 
@@ -37,6 +37,15 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-Production--minded%20ML-62D5D2?style=flat-square&labelColor=0B1118&logo=databricks&logoColor=62D5D2" alt="Focus: production-minded machine learning" />
+<img src="https://img.shields.io/badge/WORKFLOW-Data%20%E2%86%92%20Model%20%E2%86%92%20API%20%E2%86%92%20Monitor-D4AF37?style=flat-square&labelColor=0B1118&logo=githubactions&logoColor=D4AF37" alt="Workflow: data to model to API to monitor" />
+
+</div>
+
+<div align="center">⌘ ───────────────────── ◈ ───────────────────── ⌘</div>
+
 ## 🗺️ 道 · The path I build on
 
 ```mermaid
@@ -55,6 +64,8 @@ flowchart LR
 
 The goal is not just a high score in a notebook. The goal is a system that can be reproduced, tested, shipped, and improved.
 
+<div align="center">⌘ ───────────────────── ◈ ───────────────────── ⌘</div>
+
 ## 🏯 任務 · Selected missions
 
 These are the repositories that best show how I am practicing the full ML engineering loop.
@@ -66,6 +77,13 @@ These are the repositories that best show how I am practicing the full ML engine
 | [🎥 YouTube Sentiment Analysis](https://github.com/MitadruMridha05/Youtube_Sentiment_Analysis) | NLP workflow covering text preprocessing, sentiment modeling, and visualization. | `Python` `NLP` `pandas` `visualization` |
 | [🧠 Autonomous AI Task Worker](https://github.com/MitadruMridha05/Autonomous_AI_Task_Worker) | Prototype of an AI worker that accepts a natural-language task and attempts to complete it with a computer. | `AI agents` `automation` `Python` |
 
+<div align="center">
+
+[![House Price Predictor](https://github-readme-stats.vercel.app/api/pin/?username=MitadruMridha05&repo=House_Price_predictor&theme=dark&title_color=F2E9DC&text_color=8D99A7&icon_color=D4AF37&bg_color=0B1118&border_color=DC143C&border_radius=8)](https://github.com/MitadruMridha05/House_Price_predictor)
+[![MLflow Test](https://github-readme-stats.vercel.app/api/pin/?username=MitadruMridha05&repo=MLflow-test&theme=dark&title_color=F2E9DC&text_color=8D99A7&icon_color=D4AF37&bg_color=0B1118&border_color=DC143C&border_radius=8)](https://github.com/MitadruMridha05/MLflow-test)
+
+</div>
+
 <details>
 <summary><b>More repositories</b></summary>
 
@@ -74,6 +92,8 @@ These are the repositories that best show how I am practicing the full ML engine
 - [Basic DSA Codes](https://github.com/MitadruMridha05/basic_dsa_codes) — data structures and algorithms in C/C++.
 
 </details>
+
+<div align="center">⌘ ───────────────────── ◈ ───────────────────── ⌘</div>
 
 ## ⚔️ 武器 · Engineering toolkit
 
