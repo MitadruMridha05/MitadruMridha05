@@ -7,19 +7,24 @@
 <div align="center">
 
 ### Languages & data
-<img src="https://skillicons.dev/icons?i=py,cpp,mysql,pandas,numpy,matplotlib&theme=dark" alt="Python, C++, MySQL, pandas, NumPy and Matplotlib" />
+<img src="https://skillicons.dev/icons?i=py,cpp,mysql,cs,java,sqlite&theme=dark" alt="Python, C++, MySQL, pandas, NumPy and Matplotlib" />
 
 ### Machine learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow and scikit-learn" />
-<img src="https://img.shields.io/badge/Keras-DC143C?style=for-the-badge&logo=keras&logoColor=white&labelColor=0A0A0A" alt="Keras" />
-<img src="https://img.shields.io/badge/MLflow-D4AF37?style=for-the-badge&logo=mlflow&logoColor=0A0A0A&labelColor=0A0A0A" alt="MLflow" />
-<img src="https://img.shields.io/badge/DVC-C0C0C8?style=for-the-badge&logo=dvc&logoColor=0A0A0A&labelColor=F2E9DC" alt="DVC" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,pytorch,tensorflow,sklearn,mlflow&theme=dark" alt="PyTorch, TensorFlow and scikit-learn" />
 
 ### MLOps, deployment & cloud
-<img src="https://skillicons.dev/icons?i=docker,githubactions,fastapi,flask,aws,azure,linux,git,github&theme=dark" alt="Docker, GitHub Actions, FastAPI, Flask, AWS, Azure, Linux, Git and GitHub" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,fastapi,flask,aws,azure,linux,git,github,pydantic,kubernetes&theme=dark" alt="Docker, GitHub Actions, FastAPI, Flask, AWS, Azure, Linux, Git and GitHub" />
+
+### IDLE
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,googlecolab,jupyter,kaggle,leetcode&&theme=dark" alt="VScode, collab" />
 
 </div>
 
+<div align="center">⚔️ ━━━━━━━━━━━━━━━━━━━━━ 🥷 ━━━━━━━━━━━━━━━━━━━━━ ⚔️</div>
+
+</div>
+<br /><br />
+<div align="center">
 <a href="https://mitadrumridha05.github.io/MitadruMridha05/">
   <img src="https://img.shields.io/badge/Enter_the_3D_Quote_Dojo-DC143C?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0A0A0A" alt="Open the 3D Quote Dojo" />
 </a>
