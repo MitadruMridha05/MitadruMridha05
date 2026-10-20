@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Mitadru Mridha — aspiring machine learning and MLOps engineer" />
+<img src="assets/warrior-banner.svg" width="100%" alt="Mitadru Mridha — aspiring machine learning and MLOps engineer" />
 
 <a href="https://mitadrumridha05.github.io/MitadruMridha05/">
   <img src="https://img.shields.io/badge/Enter_the_3D_Quote_Dojo-DC143C?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0A0A0A" alt="Open the 3D Quote Dojo" />
